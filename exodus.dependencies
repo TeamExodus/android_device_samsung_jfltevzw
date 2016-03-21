@@ -9,6 +9,6 @@
   },
   {
     "repository": "vendor_samsung_jfltevzw",
-    "target_path": "external/stlport"
+    "target_path": "vendor/samsung/jfltevzw"
   }
 ]
