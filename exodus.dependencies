@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common"
+  },
+  {
+    "repository": "external_stlport",
+    "target_path": "external/stlport"
+  },
+  {
+    "repository": "vendor_samsung_jfltevzw",
+    "target_path": "external/stlport"
+  }
+]
